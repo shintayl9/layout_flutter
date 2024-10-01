@@ -13,5 +13,5 @@ Buat juga file icon_widget.dart di folder layout_widgets lalu masukkan kode di b
 
 Lalu sesuaikan pada file main.dart.
 
-Berikut ini hasil akhirnya.
+Berikut hasil akhirnya.
 ![Screenshot hello_world](images/hasil.png)
