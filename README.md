@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+Buat folder baru di lib yaitu layout_widgets lalu didalamnya buat file text_widget.dart lalu masukkan kode di bawah ini.
+![Screenshot hello_world](images/text_widget.png)
 
-This project is a starting point for a Flutter application.
+Buat juga file image_widget.dart di folder layout_widgets lalu masukkan kode di bawah ini.
+![Screenshot hello_world](images/image_widget.png)
 
-A few resources to get you started if this is your first Flutter project:
+Buat juga file icon_widget.dart di folder layout_widgets lalu masukkan kode di bawah ini.
+![Screenshot hello_world](images/icon_widget.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lalu sesuaikan pada file main.dart.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil akhirnya akan seperti berikut ini.
+![Screenshot hello_world](images/hasil.png)
